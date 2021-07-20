@@ -528,9 +528,6 @@
           "Title": {
             "type": "string"
           },
-          "Uid": {
-            "type": "uid"
-          },
           "published_at": {
             "type": "string",
             "format": "date-time"
@@ -544,9 +541,6 @@
           },
           "Title": {
             "type": "string"
-          },
-          "Uid": {
-            "type": "uid"
           },
           "published_at": {
             "type": "string",

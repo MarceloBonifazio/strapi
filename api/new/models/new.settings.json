@@ -16,9 +16,6 @@
     },
     "Title": {
       "type": "string"
-    },
-    "Uid": {
-      "type": "uid"
     }
   }
 }
