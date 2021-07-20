@@ -1,0 +1,24 @@
+{
+  "kind": "collectionType",
+  "collectionName": "new",
+  "info": {
+    "name": "New"
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true,
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "Content": {
+      "type": "richtext"
+    },
+    "Title": {
+      "type": "string"
+    },
+    "Uid": {
+      "type": "uid"
+    }
+  }
+}
